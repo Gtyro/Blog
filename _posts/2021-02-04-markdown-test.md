@@ -6,7 +6,7 @@ author: Lian
 tags: [test, document]
 comments: false
 toc: true
-pinned: true
+<!-- pinned: true -->
 ---
 
 
