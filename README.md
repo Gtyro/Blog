@@ -1,4 +1,3 @@
-LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
 
 这是一个可以发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
 
@@ -75,10 +74,4 @@ LOFFER只是容器，你的posts才是博客的核心。
 
 ## 帮助这个项目
 
-介绍更多人来使用它，摆脱lofter自由飞翔！
-
-欢迎Issues和Pull Requests。
-
 给我点一个☆吧！
-
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
